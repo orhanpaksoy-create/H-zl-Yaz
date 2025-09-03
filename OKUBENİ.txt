@@ -30,14 +30,14 @@ Projenin Klasör Yapısı:
 /Masaüstü/HızlıYaz/sistem
 /Masaüstü/HızlıYaz/sistem/pencereler
 /Masaüstü/HızlıYaz/sistem/pencereler/anapencere.py
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin/projeler
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin/yardım
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin/yardım/OKUBENİ.txt
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri/resim
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri/resim/hızlıyaz.png
-/home/dusun/Masaüstü/HızlıYaz/sistem/veri/resim/hızlıyaz_logo.png
+/Masaüstü/HızlıYaz/sistem/veri
+/Masaüstü/HızlıYaz/sistem/veri/metin
+/Masaüstü/HızlıYaz/sistem/veri/metin/projeler
+/Masaüstü/HızlıYaz/sistem/veri/metin/yardım
+/Masaüstü/HızlıYaz/sistem/veri/metin/yardım/OKUBENİ.txt
+/Masaüstü/HızlıYaz/sistem/veri/resim
+/Masaüstü/HızlıYaz/sistem/veri/resim/hızlıyaz.png
+/Masaüstü/HızlıYaz/sistem/veri/resim/hızlıyaz_logo.png
 /Masaüstü/HızlıYaz/ana.py
 
 Projenin Çalışma Alanı:Linux Mint
