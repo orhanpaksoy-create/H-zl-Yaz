@@ -22,7 +22,25 @@ Projenin Özellikleri       : Sade, modern, basit ve kolay bir sistem olmasını
 Projenin Yazılım Dili     : python3
 Proje Kütüphanesi        : pyqt6
 Projenin Versiyon No    : HIZLI YAZ v1.00
+Projenin Klasör Yapısı:
 
+/Masaüstü/HızlıYaz
+/Masaüstü/HızlıYaz/belgeler
+/Masaüstü/HızlıYaz/belgeler/LICENSE
+/Masaüstü/HızlıYaz/sistem
+/Masaüstü/HızlıYaz/sistem/pencereler
+/Masaüstü/HızlıYaz/sistem/pencereler/anapencere.py
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin/projeler
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin/yardım
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri/metin/yardım/OKUBENİ.txt
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri/resim
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri/resim/hızlıyaz.png
+/home/dusun/Masaüstü/HızlıYaz/sistem/veri/resim/hızlıyaz_logo.png
+/Masaüstü/HızlıYaz/ana.py
+
+Projenin Çalışma Alanı:Linux Mint
 
 Kullanma Kılavuzu        : Kısayol Tuşu: Kısayol tuşu Hızlı Yaz programını başlatmaya
                                         yarar.
