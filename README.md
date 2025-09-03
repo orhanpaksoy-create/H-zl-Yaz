@@ -100,7 +100,7 @@ x Tuşu testi : Açılan yardım penceresi 50 kere kapatılmak için manuel olar
 
 
 1 M KARAKTER YAZMA TESTİ SONUÇLARI VE DEĞERLENDİRME :
-dusun@dusun-desktop:~/HızlıYaz/sistem/test$ python3 test.py
+-desktop:~/HızlıYaz/sistem/test$ python3 test.py
 HızlıYaz - Ana Pencereyi ekrana getir ve ENTER'a bas: 
 
 Test_Proje_1Ksa metni:
@@ -149,7 +149,7 @@ CPU kullanım farkı: -0.2%
 RAM kullanım farkı: 0.2%
 
 Tüm testler tamamlandı! HızlıYaz zirveye çıktı! 🏆
-dusun@dusun-desktop:~/HızlıYaz/sistem/test$ 
+-desktop:~/HızlıYaz/sistem/test$ 
 
 ⚙️ Teknik Değerlendirme
 ✅ Performans
